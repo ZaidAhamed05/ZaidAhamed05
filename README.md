@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zaid Ahamed</h1>
 
-<h3 align="center"> Currently I have finished my Bachelors in arabic. Now I'm learning Advance excel and Power BI. I'm really a hard working and a fast learner. I have done some projects in power BI and I have uploaded in my dashboard.  </h3>
+<h3 align="center"> Currently I have finished my Bachelors in arabic. Now I'm learning Advance excel and Power BI. I'm really a hard working and a fast learner. I have done some projects in Power BI and Excel and I have uploaded in my dashboard.  </h3>
 
 ---
 <h2> About Me </h2>
